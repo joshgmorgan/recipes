@@ -1,0 +1,42 @@
+#body {
+text-align: center;
+width: 60%;
+margin: auto;
+border-style: solid;
+}
+
+img {
+width:  auto;
+height: auto;
+object-fit: cover;
+border-radius: 8px;
+}
+
+.title {
+background-color: blanchedalmond;
+font-family: cursive;
+font-size: 36px;
+font-weight: bold;
+margin-top: auto;
+}
+
+#description {
+font-style: italic;
+}
+
+.recipe-list {
+list-style: none;
+line-height: 1.5;
+padding: 0;
+}
+
+.instructions {
+list-style: none;
+line-height: 1.5;
+padding: 0;
+}
+    
+.odd {
+background-color: blanchedalmond;
+display: inline-flex;
+}
