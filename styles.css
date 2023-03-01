@@ -6,8 +6,6 @@ border-style: solid;
 }
 
 img {
-width:  auto;
-height: auto;
 object-fit: cover;
 object-fit: scale-down; 
 max-width: 100%;
